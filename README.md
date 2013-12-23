@@ -7,4 +7,4 @@ PlayGuide IOS project.
 
 Authors:
 
-Rohit Krishnan || Brian Monohan
+Rohit Krishnan || Brian Monahan
